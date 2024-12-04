@@ -91,15 +91,7 @@ video {
   font-size: 7.5vw;
   font-weight: 900;
 }
-/* #page1 h1::before {
-  content: "EAT. DRINK. PLAY.";
-  position: absolute;
-  color: #000;
-  top: -5px;
-  left: -5px;
-  -webkit-text-stroke: 1.5px #95c11e;
-  z-index: -1;
-} */
+
 #page1 h2 {
   font-size: 33px;
   font-weight: 800;
@@ -212,6 +204,7 @@ video {
 #about-us-in p {
   font-size: 20px;
   line-height: 26px;
+  
 }
 
 #cards-container {
@@ -235,13 +228,13 @@ video {
   transition: all ease 0.6s;
 }
 #card1 {
-  background-image: url(imgbtm4.jpg);
+  background-image: url(assets/imgbtm4.jpg);
 }
 #card2 {
-  background-image: url(imgimp.jpg);
+  background-image: url(assets/imgimp.jpg);
 }
 #card3 {
-  background-image: url(imgbtm5.jpg);
+  background-image: url(assets/imgbtm5.jpg);
 }
 .overlay {
   height: 100%;
